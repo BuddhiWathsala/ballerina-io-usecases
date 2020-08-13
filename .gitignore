@@ -1,4 +1,4 @@
 target
 ballerina-internal.log
-ballerina-internal.log.lock
+ballerina-internal.log.lck
 .keep
